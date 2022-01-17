@@ -12,7 +12,7 @@ input_string="Python is a case sensitive language"
 # (a) part
 #to find the length of string we use a inbuilt funtion len()
 
-print("length of string is:"len(input_string))
+print("length of string is:",len(input_string))
 
 #(b) part
 
