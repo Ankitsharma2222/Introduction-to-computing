@@ -11,7 +11,7 @@ def tower(n,source,target,middle):
         return
     if (n==1):                       # Base case
                                                                     
-        print(f' Move disk {n} from rod {source} to rod {target}')
+        print(f' Move disk {n} from rod {source} to rod {target}')            # disk 1 is smallest and nth disk is largest
         return
     tower(n-1,source,middle,target)
     print(f' move disk {n} from rod {source} to rod {target}')
