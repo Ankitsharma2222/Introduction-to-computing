@@ -1,7 +1,7 @@
 #Assignment 1
 #Name=Ankit sharma(21103021)
 #question 1
-
+#
 first_number=float(input("enter first number: "))
 second_number=float(input("enter second number: "))
 third_number=float(input("enter third number: "))
